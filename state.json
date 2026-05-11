@@ -1,5 +1,5 @@
 {
-  "equity": 94.349788959844,
+  "equity": 95.05480596127163,
   "equity_curve": [
     100.0,
     100.0,
@@ -495,24 +495,14 @@
     94.349788959844,
     94.349788959844,
     94.349788959844,
+    94.349788959844,
     94.349788959844
   ],
-  "last_attempted_candle": "2026-05-10T21:00:00+00:00",
-  "last_processed_candle": "2026-05-10T21:00:00+00:00",
+  "last_attempted_candle": "2026-05-10T22:00:00+00:00",
+  "last_processed_candle": "2026-05-10T22:00:00+00:00",
   "max_drawdown": -0.12579014132240846,
   "peak_equity": 106.5000129516155,
-  "positions": {
-    "BTCUSDT": {
-      "adds": 1,
-      "avg_entry": 81167.81505166448,
-      "entry": 80248.206448,
-      "extreme": 82836.26,
-      "partial_taken": true,
-      "risk": 1.1904721910754275,
-      "size": 0.000907653530055939,
-      "stop": 79075.06381199851
-    }
-  },
+  "positions": {},
   "risk_multiplier": 0.75,
   "trade_count": 26
 }
